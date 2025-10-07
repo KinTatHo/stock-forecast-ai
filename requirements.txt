@@ -1,0 +1,17 @@
+pandas
+numpy
+yfinance
+requests
+ta
+scikit-learn
+lightgbm
+transformers
+torch
+streamlit
+fastapi
+uvicorn
+python-dotenv
+matplotlib
+seaborn
+tqdm
+shap
